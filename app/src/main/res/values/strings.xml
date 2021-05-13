@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Test for Lab2</string>
+    <string name="title_activity_q1">Q1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Q">Math: 2+2</string>
+    <string name="Q1">4</string>
+    <string name="Q1A1">3</string>
+    <string name="Q1A2">4</string>
+    <string name="Q1A3">5</string>
+
+
+    <string name="Q_2">Phys: g=</string>
+    <string name="Q2">g</string>
+    <string name="Q2A1">9.81</string>
+    <string name="Q2A2">8.91</string>
+    <string name="Q2A3">10.98</string>
+
+
+    <string name="Q_3">Geog: biggest country</string>
+    <string name="Q3">BC</string>
+    <string name="Q3A1">UK</string>
+    <string name="Q3A2">USA</string>
+    <string name="Q3A3">Russia</string>
+
+    <string name="Q_4">Ok</string>
+    <string name="Q4">E</string>
+    <string name="Q4A1">Finish it</string>
+
+
+    <string name="res">3</string>
+
+
+</resources>
